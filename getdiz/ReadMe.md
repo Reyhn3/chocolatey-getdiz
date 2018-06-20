@@ -1,0 +1,1 @@
+The package source for the [chocolatey](https://chocolatey.org/) package [GetDiz](https://chocolatey.org/packages/GetDiz/).
